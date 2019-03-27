@@ -1,6 +1,8 @@
 # Knockout-JavaScript-MVVM
 Model View View-Model
 
+In this app I manually update the JavaScript Object with changes from the (UI) User Interface.
+
 https://knockoutjs.com/documentation/introduction.html
 
 Introduction
